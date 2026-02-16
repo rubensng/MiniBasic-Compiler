@@ -1,6 +1,6 @@
 # MiniB Compiler
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/es/)
 [![ANTLR](https://img.shields.io/badge/ANTLR-4-red?style=for-the-badge)](https://www.antlr.org/)
 [![Jasmin](https://img.shields.io/badge/Jasmin-Assembler-blue?style=for-the-badge)](http://jasmin.sourceforge.net/)
 
